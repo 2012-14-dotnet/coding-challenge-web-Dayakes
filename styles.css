@@ -1,0 +1,27 @@
+.sidebar
+{
+    height: 100%;
+    width: 15%;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+}
+.centered
+{
+    text-align: center;
+    width: 100%;
+}
+.container
+{
+    width: 100%;
+}
+.row
+{
+    width: 100%;
+}
+.col-3
+{
+    width: 30%;
+    float: left;
+    clear: right;
+}
