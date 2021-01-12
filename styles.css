@@ -2,9 +2,12 @@
 {
     height: 100%;
     width: 15%;
-    float: left;
     margin-left: 5%;
     text-align: center;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
 }
 .centered
 {
@@ -13,15 +16,19 @@
 }
 .container
 {
+    text-align: center;
     width: 100%;
 }
 .row
 {
     width: 100%;
+    clear: both;
 }
 .col-3
 {
-    width: 30%;
+    width: 33%;
     float: left;
-    clear: right;
+}
+main{
+    margin-left: 15%;
 }
