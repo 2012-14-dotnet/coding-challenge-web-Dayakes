@@ -2,12 +2,11 @@
 {
     height: 100%;
     width: 15%;
-    margin-left: 5%;
     text-align: center;
     position: fixed;
     z-index: 1;
     top: 0;
-    left: 0;
+    left: 5%;
 }
 .centered
 {
@@ -31,4 +30,12 @@
 }
 main{
     margin-left: 15%;
+}
+.align-left
+{
+    text-align: left;
+    margin-left: 10%;
+}
+.red{
+    color: red;
 }
