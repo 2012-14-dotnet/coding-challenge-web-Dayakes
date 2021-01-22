@@ -1,0 +1,44 @@
+.sidebar
+{
+    height: 100%;
+    width: 15%;
+    text-align: center;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 5%;
+}
+.centered
+{
+    text-align: center;
+    width: 100%;
+}
+.container
+{
+    text-align: center;
+    width: 100%;
+}
+.row
+{
+    width: 100%;
+    clear: both;
+}
+.col-3
+{
+    width: 33%;
+    float: left;
+}
+main{
+    margin-left: 15%;
+}
+.align-left
+{
+    text-align: left;
+    margin-left: 10%;
+}
+.red{
+    color: red;
+}
+a{
+    color: red;
+}
